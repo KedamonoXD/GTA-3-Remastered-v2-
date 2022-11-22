@@ -8,6 +8,8 @@ MODS
 
 Fix Leftovers+Natural HQ textures: https://www.mediafire.com/file/dqc2ocw364cfyjn/%255BIII%255D_Fix_Leftovers%252BNatural_HQ_textures.rar/file
 
+Puente de LCS: https://www.mediafire.com/file/i2bzccmij8stgbp/Puente_de_LCS.rar/file
+
 Skin and Bones 3.0 – Xbox peds & Claude: https://www.mixmods.com.br/2018/08/iii-skin-and-bones-3-0-xbox-peds-claude-corpo-suave/
 
 Fixed Xbox Vehicles: https://www.mediafire.com/file/pun02knv3lta5ki/Fixed_Xbox_Vehicles_para_GTA_III.7z/file
