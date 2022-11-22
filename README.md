@@ -24,6 +24,10 @@ Neumáticos reventables: https://gtaforums.com/topic/901608-breakable-windshield
 
 ParticleEx: https://www.mixmods.com.br/2021/10/iii-vc-particleex-sistema-de-efeitos-melhorado/
 
+SkyGfx: https://www.mixmods.com.br/2020/02/iii-vc-skygfx-3-0b/
+
+Mi archivo de configuracion del skygfx: https://www.mediafire.com/file/uv85aw3slrvcv6p/skygfx.ini/file
+
 Passengers: https://libertycity.net/files/gta-3/114854-passengers.html
 
 Sit boat fix: https://www.gtainside.com/en/gta3/mods/163007-sit-in-boat-boat-animation-fix/
