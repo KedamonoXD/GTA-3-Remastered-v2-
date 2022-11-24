@@ -2,7 +2,6 @@
 
 Essentials: https://www.mixmods.com.br/2020/12/iii-essentials-pack/
 
-GInput: https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles/
 
 MODS
 
