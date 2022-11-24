@@ -2,6 +2,10 @@
 
 Essentials: https://www.mixmods.com.br/2020/12/iii-essentials-pack/
 
+Destroyable Airtrain: https://www.gtagarage.com/mods/show.php?id=26526
+
+Cheat Menu by Grinch_ v3.2: https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch/
+
 
 MODS
 
